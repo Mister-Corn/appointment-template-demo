@@ -4,6 +4,8 @@ This app is for clients wishing to have a page that not only describes the life 
 
 While the visual appearance and layout is custom-coded, clients are able to update information and images on the website on their own through a Content Management System via Sanity.
 
+In order to access the Sanity Studio, you will need to create a Sanity CMS account, and then wait to be invited to the project. The much easier way to visually see the studio is [viewing this Studio walkthrough](./README/admin-walkthrough.md).
+
 This app is based off of actual work I did in the past.
 
 ## ⚠ **Warning** ⚠
