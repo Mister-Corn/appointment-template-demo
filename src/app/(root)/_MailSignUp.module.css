@@ -1,0 +1,6 @@
+.maillistTriangle {
+  @apply z-0 invisible md:visible pointer-events-none absolute top-0 left-0 h-full w-full bg-gradient-to-t from-white via-sky-50 to-sky-100/60;
+  /* Triangle time! */
+  -webkit-clip-path: polygon(50% 200%, 0 0, 100% 0);
+  clip-path: polygon(50% 200%, 0 0, 100% 0);
+}
